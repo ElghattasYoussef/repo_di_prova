@@ -12,3 +12,4 @@ while True:
         clc.Somma()
     else:
         print("Scelta non corretta!")
+
